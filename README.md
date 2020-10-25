@@ -3,14 +3,14 @@
 Desenvolvedor web no Itaú Unibanco, pai, santista e coorganizador da comunidade AngularSP.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/americoneto1/card/blob/master/LICENSE) 
-[![npm version](https://badge.fury.io/js/%40americoneto%2Fcard.svg)](https://www.npmjs.com/package/@americoneto/card)
+[![npm version](https://badge.fury.io/js/%40americoneto1%2Fcard.svg)](https://www.npmjs.com/package/@americoneto1/card)
 
 ## Uso
 
 Via npx:
 
 ```bash
-npx @americoneto/card
+npx @americoneto1/card
 ```
 
 ## Credits
