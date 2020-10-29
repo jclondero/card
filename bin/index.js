@@ -17,7 +17,7 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('Americo Neto /'),
+  name: chalk.white('Americo de Souza Neto /'),
   handle: chalk.cyan('Dev'),
   work: chalk.white('Desenvolvedor Web'),
   twitter: chalk.cyan('https://twitter.com/americoneto1'),
