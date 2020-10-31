@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/americoneto1/card/compare/v1.0.2...v1.0.3) (2020-10-31)
+
+
+### Bug Fixes
+
+* **card:** corrigida acentuação do nome ([87c4938](https://github.com/americoneto1/card/commit/87c4938a36ce491e155e56e08df56f962cbacad9))
+
 ## [1.0.2](https://github.com/americoneto1/card/compare/v1.0.1...v1.0.2) (2020-10-29)
 
 
