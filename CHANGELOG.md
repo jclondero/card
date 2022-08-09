@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/jclondero/card/compare/v2.0.0...v2.0.1) (2022-08-09)
+
+
+### Bug Fixes
+
+* incorrect name ([1d6791c](https://github.com/jclondero/card/commit/1d6791c379d6675cfddce5817779b4a11261e7d5))
+
 # [2.0.0](https://github.com/jclondero/card/compare/v1.0.0...v2.0.0) (2022-08-09)
 
 
