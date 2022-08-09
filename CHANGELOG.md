@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/jclondero/card/compare/v2.0.1...v2.1.0) (2022-08-09)
+
+
+### Features
+
+* add age ([57fe600](https://github.com/jclondero/card/commit/57fe6001dbc4e4dc44f95810435cd1185a6cd3bb))
+
 ## [2.0.1](https://github.com/jclondero/card/compare/v2.0.0...v2.0.1) (2022-08-09)
 
 
