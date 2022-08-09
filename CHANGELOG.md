@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/jclondero/card/compare/v2.1.1...v3.0.0) (2022-08-09)
+
+
+### Code Refactoring
+
+* 💡 change name ([e7f76c9](https://github.com/jclondero/card/commit/e7f76c955e98fc84ee205a9740d21e06ca4c7e57))
+
+
+### BREAKING CHANGES
+
+* 🧨 update critical name
+
 ## [2.1.1](https://github.com/jclondero/card/compare/v2.1.0...v2.1.1) (2022-08-09)
 
 
