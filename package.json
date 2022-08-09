@@ -1,5 +1,5 @@
 {
-  "name": "@americoneto1/card",
+  "name": "@jclondero/card",
   "version": "1.0.3",
   "private": false,
   "description": "A personal card for Americo Neto",
@@ -8,18 +8,18 @@
     "access": "public"
   },
   "bin": {
-    "americoneto1-card": "./bin/index.js"
+    "jclondero-card": "./bin/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/americoneto1/card.git"
+    "url": "https://github.com/jclondero/card.git"
   },
   "scripts": {
     "commit": "git-cz",
     "semantic-release": "semantic-release"
   },
   "keywords": [],
-  "author": "Americo Neto <americoneto1@gmail.com>",
+  "author": "Americo Neto <jclondero@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "boxen": "^4.2.0",
