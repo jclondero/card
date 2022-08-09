@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/jclondero/card/compare/v2.1.0...v2.1.1) (2022-08-09)
+
+
+### Bug Fixes
+
+* 🐛 incorrect age ([e1eb221](https://github.com/jclondero/card/commit/e1eb2210b68c32ec75173b81f53ceed92225d580))
+
 # [2.1.0](https://github.com/jclondero/card/compare/v2.0.1...v2.1.0) (2022-08-09)
 
 
