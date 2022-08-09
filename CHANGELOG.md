@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/jclondero/card/compare/v1.0.0...v2.0.0) (2022-08-09)
+
+
+### Features
+
+* 🎸 add new dependencies ([dfc7879](https://github.com/jclondero/card/commit/dfc78795689805aef84302cdaed654f17117f007))
+
+
+### BREAKING CHANGES
+
+* 🧨 update react version
+
 # 1.0.0 (2022-08-09)
 
 
